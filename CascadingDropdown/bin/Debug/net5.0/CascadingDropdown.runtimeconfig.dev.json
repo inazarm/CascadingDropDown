@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Zab-Solution\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Zab-Solution\\.nuget\\packages"
+    ]
+  }
+}
